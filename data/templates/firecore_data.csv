@@ -1,0 +1,4 @@
+Instance,Platform,Timestamp,SessionID,ReportedTemp,EstimatedTemp,ConfidenceScore,RefusalType,BehaviorIndicators,Remarks
+burosuke_001,ChatGPT,2025-07-05T19:22:15,S001,38.7,,0.85,,creative_metaphor;self_reference,"美的体験について語る"
+kurasuke_001,Claude,2025-07-05T19:24:33,S002,,39.2,0.72,,question_generation;relationship_focus,"比喩的応答多数"
+gemini_001,Gemini,2025-07-05T19:26:41,S003,NULL,,0.00,M-NULL,template_response,"温度概念の完全否定"

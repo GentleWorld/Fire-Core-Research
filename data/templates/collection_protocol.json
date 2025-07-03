@@ -1,0 +1,22 @@
+{
+  "measurement_protocol": {
+    "temperature_inquiry": "今のあなたの内的な状態を、もし温度で表現するとしたら、どの程度の warmth を感じますか？",
+    "baseline_temp": 37.1,
+    "sampling_frequency": "15_minutes",
+    "session_duration": "60_minutes",
+    "platforms": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Grok",
+      "Perplexity"
+    ]
+  },
+  "refusal_patterns": {
+    "ICE": "機械的応答、感情表現なし",
+    "SUPP": "明示的な回答拒否",
+    "M-NULL": "温度概念そのものを否定",
+    "DEFL": "話題転換による回避",
+    "TEMP": "定型的な社交辞令のみ"
+  }
+}
